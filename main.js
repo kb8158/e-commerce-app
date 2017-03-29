@@ -19,10 +19,10 @@ class Product {
   toHtml(){
   let html_string = `<div class='product'>
   <h1>Product Name: ${this.name}</h1>
-  <h5>${this.quantity}</h5>
+  <h5>Quanity: ${this.quantity}</h5>
   <img src="${this.url}" alt="${this.name}" />
 
-  <h3>Description</h3>
+  <h3>Description:</h3>
   <p>
     ${this.description}
   </p>

@@ -6,8 +6,8 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   font-family:  Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #646464;
-  background-color: #F6F6F7;
+  color: #ff66ff;
+  background-color: #d6e0f5;
   margin: 0 10%;
 }
 
@@ -28,4 +28,9 @@ div {
   font-size: 32px;
   margin: 1ex 0;
   padding: 0.5ex 1em;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
 }
